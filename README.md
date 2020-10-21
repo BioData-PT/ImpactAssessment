@@ -25,5 +25,10 @@ Find out more about impact [**here**](http://impact.biodata.pt/index.html) and e
 **Follow us:**&nbsp;&nbsp;<a href="https://www.facebook.com/BioData.pt"><img src="./Files/facebook.png" alt="Facebook" width="30px"></a>&nbsp;&nbsp;<a href="https://twitter.com/BioData_pt"><img src="./Files/twitter.png" alt="Twitter" width="30px"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/company/biodata-pt/"><img src="./Files/linkedin.png" alt="LinkedIn" width="30px"></a>
 
 ---
+### Partners
+
+<a href="https://www.elixir-greece.org/"><img src="./Files/ELIXIR-GR.jpg" alt="ELIXIR-GR" width="200px"></a>
+
+---
 ### Funding
 <img src="./Files/parceiros.png" width="500px">
