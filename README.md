@@ -13,9 +13,9 @@ Find out more about impact [**here**](http://impact.biodata.pt/index.html) and e
 ---
 ### Authors/Organizers
 * Ana Portugal Melo - author and organizer
-* Daniel Faria - organizer
+* Daniel Faria - co-author and organizer
 * Marta Silva - organizer
-* Rafael Santos - organizer
+* Rafael Santos - co-author and organizer
 * Thanasis Vergoulis - invited speaker
 
 ---
